@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(59, 59, 102);
+}
+
+.container {
+  margin-top: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.h2 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.h4 {
+  margin-top: 7px;
+}
+
+.form-check-input {
+  border-style: solid;
+}
+
+.border {
+  margin-top: 15px;
+  border-style: solid;
+  margin-bottom: 15px;
+  border-color: black;
+}
+
+.login {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.short {
+  width: 400px;
+  color: aliceblue;
+}

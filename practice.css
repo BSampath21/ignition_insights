@@ -1,0 +1,15 @@
+#london{
+    background-color:rgb(175, 111, 33);
+    color:black;
+    width:400px;
+    display:inline-block;
+   text-align: center;
+}
+
+#tokyo{
+    background-color: rgb(82, 143, 199);
+    color:black;
+    width:800px;
+    display: inline-block;
+    text-align: center;
+}
